@@ -6,7 +6,7 @@ declare(strict_types=1);
  */
 function greet(string $name): string
 {
-    return "Ciao, {$name}!";
+    return "CIAO, {$name}!";
 }
 
 // Comando di esecuzione: php hello.php [nome]
